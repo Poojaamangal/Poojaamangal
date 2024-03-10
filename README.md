@@ -4,7 +4,6 @@
 <h3 align="center">Fronted web Developer,Comptitive programmer</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemR6eTFvMXU0Zmlwc2piMGNwYWdvZ3djNG5ybG4wc2QzdHhkNHVpcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=poojaamangal&label=Profile%20views&color=0e75b6&style=flat" alt="poojaamangal" /> </p>
 
 
 
