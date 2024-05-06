@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **E-Placementcell**
 
-- 🌱 I’m currently learning **js,react**
+- 🌱 I’m currently learning **js,reactjs**
 
 - 📫 How to reach me **poojamangal03@gmail.com**
 
