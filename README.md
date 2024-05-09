@@ -5,8 +5,6 @@
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemR6eTFvMXU0Zmlwc2piMGNwYWdvZ3djNG5ybG4wc2QzdHhkNHVpcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif">
 
 
-
-
 - 🔭 I’m currently working on **E-Placementcell**
 
 - 🌱 I’m currently learning **js,reactjs**
